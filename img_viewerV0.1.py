@@ -6,7 +6,6 @@ from tkinter import messagebox
 
 root = Tk()
 root.geometry("600x650")
-root.iconbitmap(r"E:\coding\gui\tkinter\projects\imageviewer\icon.ico")
 root.resizable(False, False)
 img_frame = None
 img_list = []
